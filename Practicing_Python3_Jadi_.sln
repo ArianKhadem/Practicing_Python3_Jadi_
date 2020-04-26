@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practicing_Python3_Jadi_", "Practicing_Python3_Jadi_.pyproj", "{2B195A0C-6A2F-4E40-B4E6-F13B68A9A613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B195A0C-6A2F-4E40-B4E6-F13B68A9A613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B195A0C-6A2F-4E40-B4E6-F13B68A9A613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0082CDAC-3963-46CB-B734-E0F1C2547F80}
+	EndGlobalSection
+EndGlobal

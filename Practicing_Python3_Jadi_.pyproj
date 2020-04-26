@@ -1,0 +1,82 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2b195a0c-6a2f-4e40-b4e6-f13b68a9a613</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Practicing_Python3_Jadi_.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Practicing_Python3_Jadi_</Name>
+    <RootNamespace>Practicing_Python3_Jadi_</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="8Harfi.py" />
+    <Compile Include="BaraxX2.py" />
+    <Compile Include="Binary_search.py" />
+    <Compile Include="Building_a_Game.py" />
+    <Compile Include="Changing_to_lower_upper.py" />
+    <Compile Include="Chape_bozorgtar.py" />
+    <Compile Include="Counting_the_Votes.py" />
+    <Compile Include="Define_Function_.py" />
+    <Compile Include="Divisor_Max.py" />
+    <Compile Include="Fist-Character_Capital.py" />
+    <Compile Include="Guess_number_of_user.py" />
+    <Compile Include="Guss_number.py" />
+    <Compile Include="Input_Recognizer.py" />
+    <Compile Include="iteration_For %282%29.py" />
+    <Compile Include="iteration_For.py" />
+    <Compile Include="Iteration_While_1.py" />
+    <Compile Include="Kalamate_Jomleh.py" />
+    <Compile Include="Laptop_Price.py" />
+    <Compile Include="Max_divisor.py" />
+    <Compile Include="Mazrabe_10.py" />
+    <Compile Include="Nowrooz_Meeting.py" />
+    <Compile Include="Number_of_teams.py" />
+    <Compile Include="Old_and_Older_Member.py" />
+    <Compile Include="Palindrome_checker.py" />
+    <Compile Include="Parctice_Vowels.py" />
+    <Compile Include="Parham_math_practice.py" />
+    <Compile Include="Parham_teching.py" />
+    <Compile Include="Parliament_Practic.py" />
+    <Compile Include="Parliment.py" />
+    <Compile Include="Practice_Sum.py" />
+    <Compile Include="Practicing_Python3_Jadi_.py" />
+    <Compile Include="Prime_from_Net.py" />
+    <Compile Include="quiz_iteration.py" />
+    <Compile Include="Quiz_List.py" />
+    <Compile Include="Remove_Some_Characters.py" />
+    <Compile Include="sene_koodak.py" />
+    <Compile Include="Sepidrood_team_Practic.Long.py" />
+    <Compile Include="Sepidrood_team_Practic_Short.py" />
+    <Compile Include="String-Lesson1-2.py" />
+    <Compile Include="Substring_checker.py" />
+    <Compile Include="Taaeine_Javani.py" />
+    <Compile Include="Tedad_Khanevadeh.py" />
+    <Compile Include="tempCodeRunnerFile.py" />
+    <Compile Include="testing.py" />
+    <Compile Include="test_Parliament_Practic.py" />
+    <Compile Include="The_Prime_Number.py" />
+    <Compile Include="while_test.py" />
+    <Compile Include="whois.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
